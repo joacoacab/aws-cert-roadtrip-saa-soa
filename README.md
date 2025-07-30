@@ -3,21 +3,21 @@
 ## 📌 Índice Rápido
 
 ### 🗓 SAA-C03 - Solutions Architect Associate
-- [Semana 01: Fundamentos de AWS](#semana-01-fundamentos-de-aws--iam-cuentas-regiones-y-zonas)
-- [Semana 02: Computación en la Nube](#semana-02-computación-en-la-nube--ec2-auto-scaling-load-balancers)
-- [Semana 03: Almacenamiento y Bases de Datos](#semana-03-almacenamiento-y-bases-de-datos--s3-ebs-rds-dynamodb)
-- [Semana 04: Redes y Seguridad](#semana-04-redes-y-seguridad--vpc-security-groups-nacls)
-- [Semana 05: Bases de Datos Avanzadas](#semana-05-bases-de-datos-avanzadas--aurora-rds-dynamodb-caching)
-- [Semana 06: Alta Disponibilidad](#semana-06-alta-disponibilidad-y-tolerancia-a-fallos--route-53-alb-auto-scaling-azs)
-- [Semana 07: Seguridad Avanzada](#semana-07-seguridad-avanzada--kms-secrets-manager-organizations-scps-mfa)
-- [Semana 08: Arquitecturas Serverless](#semana-08-arquitecturas-serverless--lambda-api-gateway-step-functions-sqs-sns)
-- [Semana 09: Monitoreo](#semana-09-monitoreo-y-observabilidad--cloudwatch-logs-cloudtrail-eventbridge)
-- [Semana 10: Optimización de Costos](#semana-10-optimización-de-costos--cost-explorer-budgets-savings-plans)
-- [Semana 11: Simulacro de Examen](#semana-11-simulacro-de-examen--práctica-completa)
-- [Semana 12: Revisión Final](#semana-12-revisión-final--checklist--tips-para-rendir)
+- [Semana 01: Fundamentos de AWS](./saa-c03/notes/week-01.md)
+- [Semana 02: Computación en la Nube](./saa-c03/notes/week-02.md)
+- [Semana 03: Almacenamiento y Bases de Datos](./saa-c03/notes/week-03.md)
+- [Semana 04: Redes y Seguridad](./saa-c03/notes/week-04.md)
+- [Semana 05: Bases de Datos Avanzadas](./saa-c03/notes/week-05.md)
+- [Semana 06: Alta Disponibilidad](./saa-c03/notes/week-06.md)
+- [Semana 07: Seguridad Avanzada](./saa-c03/notes/week-07.md)
+- [Semana 08: Arquitecturas Serverless](./saa-c03/notes/week-08.md)
+- [Semana 09: Monitoreo](./saa-c03/notes/week-09.md)
+- [Semana 10: Optimización de Costos](./saa-c03/notes/week-10.md)
+- [Semana 11: Simulacro de Examen](./saa-c03/notes/week-11.md)
+- [Semana 12: Revisión Final](./saa-c03/notes/week-12.md)
 
 ### 🗓 SOA-C02 - SysOps Administrator Associate
-- [Semana 01: Monitoreo y Logs](#semana-01-introducción-a-monitoreo-y-logs--cloudwatch-métricas-alarmas-filtros)
+- [Semana 01: Monitoreo y Logs](./soa-c02/notes/week-01.md)
 
 ---
 
