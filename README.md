@@ -1,5 +1,26 @@
 # 🚀 AWS Cert Roadtrip - SAA-C03 & SOA-C02
 
+## 📌 Índice Rápido
+
+### 🗓 SAA-C03 - Solutions Architect Associate
+- [Semana 01: Fundamentos de AWS](#semana-01-fundamentos-de-aws)
+- [Semana 02: Computación en la Nube](#semana-02-computación-en-la-nube)
+- [Semana 03: Almacenamiento y Bases de Datos](#semana-03-almacenamiento-y-bases-de-datos)
+- [Semana 04: Redes y Seguridad](#semana-04-redes-y-seguridad)
+- [Semana 05: Bases de Datos Avanzadas](#semana-05-bases-de-datos-avanzadas)
+- [Semana 06: Alta Disponibilidad](#semana-06-alta-disponibilidad-y-tolerancia-a-fallos)
+- [Semana 07: Seguridad Avanzada](#semana-07-seguridad-avanzada)
+- [Semana 08: Arquitecturas Serverless](#semana-08-arquitecturas-serverless)
+- [Semana 09: Monitoreo](#semana-09-monitoreo-y-observabilidad)
+- [Semana 10: Optimización de Costos](#semana-10-optimización-de-costos)
+- [Semana 11: Simulacro de Examen](#semana-11-simulacro-de-examen)
+- [Semana 12: Revisión Final](#semana-12-revisión-final)
+
+### 🗓 SOA-C02 - SysOps Administrator Associate
+- [Semana 01: Monitoreo y Logs](#semana-01-introducción-a-monitoreo-y-logs)
+
+---
+
 ## 📋 Descripción
 
 Plan de estudio y recursos para rendir las certificaciones AWS:
@@ -96,8 +117,53 @@ Después de completar SAA-C03, el plan continúa con la preparación para SOA-C0
 
 ## 📊 Progreso
 
+![Progreso](https://img.shields.io/badge/Progreso-0%25-blue)
+
 - [ ] **SAA-C03:** 0/12 semanas completadas
 - [ ] **SOA-C02:** Pendiente
+
+## 🛠️ Comandos Rápidos
+
+### 📝 Ver Quizzes
+```bash
+make quiz-iam          # Quiz de IAM Fundamentals
+make quiz-vpc          # Quiz de VPC y Networking
+make quiz-monitoring   # Quiz de Monitoring Basics
+```
+
+### 📊 Ver Progreso
+```bash
+make progress          # Mostrar archivo de progreso
+```
+
+### 📚 Ver Recursos
+```bash
+make cheat-sheets      # Mostrar cheat sheets
+make resources         # Mostrar recursos útiles
+```
+
+### 🗂️ Navegar Contenido
+```bash
+make week-01           # Ver contenido de semana 01
+make week-02           # Ver contenido de semana 02
+# ... (hasta week-12)
+```
+
+### 🧪 Ver Labs
+```bash
+make lab-iam           # Lab de IAM Setup
+make lab-rds           # Lab de RDS Snapshot Restore
+make lab-cloudwatch    # Lab de CloudWatch Alarms
+```
+
+### 📋 Ayuda
+```bash
+make help              # Ver todos los comandos disponibles
+make info              # Información del proyecto
+make structure         # Estructura del repositorio
+```
+
+---
 
 ## 🤝 Contribuciones
 
