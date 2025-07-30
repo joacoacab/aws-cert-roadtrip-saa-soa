@@ -1,6 +1,6 @@
 # 🗓 Semana 07: Seguridad Avanzada – KMS, Secrets Manager, Organizations, SCPs, MFA
 
-📅 **Fecha:** 16-22 Septiembre 2024  
+📅 **Fecha:** [Personalizar según tu cronograma]  
 🎯 **Objetivo:** Comprender los servicios de seguridad avanzada de AWS y las mejores prácticas para proteger infraestructuras en la nube.
 
 ---

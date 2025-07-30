@@ -1,6 +1,6 @@
 # 🗓 Semana 06: Alta Disponibilidad y Tolerancia a Fallos – Route 53, ALB, Auto Scaling, AZs
 
-📅 **Fecha:** 9-15 Septiembre 2024  
+📅 **Fecha:** [Personalizar según tu cronograma]  
 🎯 **Objetivo:** Comprender las estrategias de alta disponibilidad y tolerancia a fallos en AWS para diseñar arquitecturas resilientes.
 
 ---

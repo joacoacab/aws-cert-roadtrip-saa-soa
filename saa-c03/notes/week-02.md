@@ -1,6 +1,6 @@
 # 🗓 Semana 02: Computación en la Nube – EC2, Auto Scaling, Load Balancers
 
-📅 **Fecha:** 12-18 Agosto 2024  
+📅 **Fecha:** [Personalizar según tu cronograma]  
 🎯 **Objetivo:** Comprender los servicios de computación de AWS y cómo diseñar aplicaciones escalables.
 
 ---

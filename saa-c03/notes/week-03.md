@@ -1,6 +1,6 @@
 # 🗓 Semana 03: Almacenamiento y Bases de Datos – S3, EBS, RDS, DynamoDB
 
-📅 **Fecha:** 19-25 Agosto 2024  
+📅 **Fecha:** [Personalizar según tu cronograma]  
 🎯 **Objetivo:** Comprender los servicios de almacenamiento y bases de datos de AWS para diseñar soluciones de datos escalables.
 
 ---

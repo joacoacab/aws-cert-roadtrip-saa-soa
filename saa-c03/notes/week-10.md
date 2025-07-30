@@ -1,6 +1,6 @@
 # 🗓 Semana 10: Optimización de Costos – Cost Explorer, Budgets, Savings Plans
 
-📅 **Fecha:** 7-13 Octubre 2024  
+📅 **Fecha:** [Personalizar según tu cronograma]  
 🎯 **Objetivo:** Comprender las herramientas de optimización de costos de AWS y cómo diseñar arquitecturas costos-eficientes.
 
 ---

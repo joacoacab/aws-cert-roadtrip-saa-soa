@@ -1,6 +1,6 @@
 # 🗓 Semana 12: Revisión Final + Checklist + Tips para Rendir
 
-📅 **Fecha:** 21-27 Octubre 2024  
+📅 **Fecha:** [Personalizar según tu cronograma]  
 🎯 **Objetivo:** Revisión final de conceptos críticos, checklist completo y preparación mental para el examen SAA-C03.
 
 ---

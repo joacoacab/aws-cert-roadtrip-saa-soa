@@ -1,6 +1,6 @@
 # 🗓 Semana 05: Bases de Datos Avanzadas – Aurora, RDS, DynamoDB, Caching
 
-📅 **Fecha:** 2-8 Septiembre 2024  
+📅 **Fecha:** [Personalizar según tu cronograma]  
 🎯 **Objetivo:** Comprender los servicios de bases de datos avanzadas de AWS y estrategias de alta disponibilidad para datos.
 
 ---

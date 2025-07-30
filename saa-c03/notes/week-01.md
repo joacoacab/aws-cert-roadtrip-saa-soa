@@ -1,6 +1,6 @@
 # 🗓 Semana 01: Fundamentos de AWS – IAM, cuentas, regiones y zonas
 
-📅 **Fecha:** 5-11 Agosto 2024  
+📅 **Fecha:** [Personalizar según tu cronograma]  
 🎯 **Objetivo:** Comprender la base de la infraestructura global de AWS y cómo se gestiona el acceso con IAM.
 
 ---

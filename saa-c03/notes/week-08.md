@@ -1,6 +1,6 @@
 # 🗓 Semana 08: Arquitecturas Serverless – Lambda, API Gateway, Step Functions, SQS, SNS
 
-📅 **Fecha:** 23-29 Septiembre 2024  
+📅 **Fecha:** [Personalizar según tu cronograma]  
 🎯 **Objetivo:** Comprender los servicios serverless de AWS y cómo diseñar arquitecturas sin servidor escalables y eficientes.
 
 ---

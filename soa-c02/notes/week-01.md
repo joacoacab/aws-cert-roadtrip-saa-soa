@@ -1,6 +1,6 @@
 # 🗓 Semana 01: Introducción a Monitoreo y Logs – CloudWatch, Métricas, Alarmas, Filtros
 
-📅 **Fecha:** 4-10 Noviembre 2024  
+📅 **Fecha:** [Personalizar según tu cronograma]  
 🎯 **Objetivo:** Comprender los fundamentos de monitoreo y observabilidad en AWS, con enfoque en CloudWatch y gestión de logs.
 
 ---

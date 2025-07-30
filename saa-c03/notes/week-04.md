@@ -1,6 +1,6 @@
 # 🗓 Semana 04: Redes y Seguridad – VPC, Security Groups, NACLs
 
-📅 **Fecha:** 26 Agosto - 1 Septiembre 2024  
+📅 **Fecha:** [Personalizar según tu cronograma]  
 🎯 **Objetivo:** Comprender la red privada virtual (VPC) y los mecanismos de seguridad de red en AWS.
 
 ---

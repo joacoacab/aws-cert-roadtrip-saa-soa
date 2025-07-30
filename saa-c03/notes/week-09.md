@@ -1,6 +1,6 @@
 # 🗓 Semana 09: Monitoreo y Observabilidad – CloudWatch, Logs, CloudTrail, EventBridge
 
-📅 **Fecha:** 30 Septiembre - 6 Octubre 2024  
+📅 **Fecha:** [Personalizar según tu cronograma]  
 🎯 **Objetivo:** Comprender los servicios de monitoreo y observabilidad de AWS para mantener aplicaciones saludables y detectar problemas proactivamente.
 
 ---

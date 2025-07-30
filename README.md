@@ -23,78 +23,35 @@ aws-cert-roadtrip-saa-soa/
 └── 📂 resources/                  # Recursos compartidos
 ```
 
-## 📅 Cronograma SAA-C03 (Agosto - Noviembre 2024)
+## 📅 Cronograma SAA-C03 (12 Semanas)
 
-### 🗓 Semana 01: Fundamentos de AWS
-- **Fecha:** 5-11 Agosto
-- **Temas:** IAM, cuentas, regiones y zonas
-- **Labs:** Configuración de IAM y políticas
+### 🗓 Semana 01-04: Fundamentos
+- **Semana 01:** IAM, Cuentas AWS, Regiones y Zonas de Disponibilidad
+- **Semana 02:** EC2, Auto Scaling, Load Balancers
+- **Semana 03:** S3, EBS, RDS, DynamoDB
+- **Semana 04:** VPC, Security Groups, NACLs
 
-### 🗓 Semana 02: Computación en la Nube
-- **Fecha:** 12-18 Agosto
-- **Temas:** EC2, Auto Scaling, Load Balancers
-- **Labs:** Despliegue de aplicación web
+### 🗓 Semana 05-08: Servicios Avanzados
+- **Semana 05:** Bases de Datos Avanzadas (Aurora, RDS, DynamoDB, Caching)
+- **Semana 06:** Alta Disponibilidad y Tolerancia a Fallos (Route 53, ALB, Auto Scaling, AZs)
+- **Semana 07:** Seguridad Avanzada (KMS, Secrets Manager, Organizations, SCPs, MFA)
+- **Semana 08:** Arquitecturas Serverless (Lambda, API Gateway, Step Functions, SQS, SNS)
 
-### 🗓 Semana 03: Almacenamiento y Bases de Datos
-- **Fecha:** 19-25 Agosto
-- **Temas:** S3, EBS, RDS, DynamoDB
-- **Labs:** Configuración de almacenamiento
-
-### 🗓 Semana 04: Redes y Seguridad
-- **Fecha:** 26 Agosto - 1 Septiembre
-- **Temas:** VPC, Security Groups, NACLs
-- **Labs:** Configuración de VPC
-
-### 🗓 Semana 05: Monitoreo y Logging
-- **Fecha:** 2-8 Septiembre
-- **Temas:** CloudWatch, CloudTrail, X-Ray
-- **Labs:** Configuración de monitoreo
-
-### 🗓 Semana 06: Serverless y Contenedores
-- **Fecha:** 9-15 Septiembre
-- **Temas:** Lambda, API Gateway, ECS, EKS
-- **Labs:** Despliegue serverless
-
-### 🗓 Semana 07: Integración y Mensajería
-- **Fecha:** 16-22 Septiembre
-- **Temas:** SQS, SNS, EventBridge
-- **Labs:** Arquitectura de mensajería
-
-### 🗓 Semana 08: Migración y Híbrido
-- **Fecha:** 23-29 Septiembre
-- **Temas:** AWS Migration Hub, Direct Connect
-- **Labs:** Estrategia de migración
-
-### 🗓 Semana 09: Costos y Optimización
-- **Fecha:** 30 Septiembre - 6 Octubre
-- **Temas:** Cost Explorer, Trusted Advisor
-- **Labs:** Análisis de costos
-
-### 🗓 Semana 10: Arquitecturas de Referencia
-- **Fecha:** 7-13 Octubre
-- **Temas:** Well-Architected Framework
-- **Labs:** Diseño de arquitecturas
-
-### 🗓 Semana 11: Repaso y Práctica
-- **Fecha:** 14-20 Octubre
-- **Temas:** Repaso general, casos de estudio
-- **Labs:** Simulacros de examen
-
-### 🗓 Semana 12: Examen Final
-- **Fecha:** 21-27 Octubre
-- **Temas:** Examen de certificación SAA-C03
-- **Labs:** Preparación final
+### 🗓 Semana 09-12: Operaciones y Optimización
+- **Semana 09:** Monitoreo (CloudWatch, Logs, CloudTrail, EventBridge)
+- **Semana 10:** Optimización de Costos (Cost Explorer, Budgets, Savings Plans)
+- **Semana 11:** Simulacro de Examen
+- **Semana 12:** Revisión Final + Checklist + Tips para Rendir
 
 ## 🎯 Próxima Fase: SysOps Administrator (SOA-C02)
 
 Después de completar SAA-C03, el plan continúa con la preparación para SOA-C02:
 
-### 📅 Cronograma SOA-C02 (Noviembre 2024 - Enero 2025)
-- **Semana 13-16:** Operaciones y Monitoreo
-- **Semana 17-20:** Automatización y DevOps
-- **Semana 21-24:** Seguridad y Cumplimiento
-- **Semana 25-28:** Resolución de Problemas
-- **Semana 29-32:** Examen SOA-C02
+### 📅 Cronograma SOA-C02 (20 Semanas)
+- **Semana 01-05:** Operaciones y Monitoreo
+- **Semana 06-10:** Automatización y DevOps
+- **Semana 11-15:** Seguridad y Cumplimiento
+- **Semana 16-20:** Resolución de Problemas y Examen
 
 ## 📚 Recursos Útiles
 

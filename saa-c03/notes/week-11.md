@@ -1,6 +1,6 @@
 # 🗓 Semana 11: Simulacro de Examen – Práctica Completa
 
-📅 **Fecha:** 14-20 Octubre 2024  
+📅 **Fecha:** [Personalizar según tu cronograma]  
 🎯 **Objetivo:** Realizar simulacros completos del examen SAA-C03 para evaluar preparación y identificar áreas de mejora.
 
 ---
