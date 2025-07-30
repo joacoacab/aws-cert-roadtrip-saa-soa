@@ -37,7 +37,9 @@ help:
 quiz:
 	@echo "📝 Quizzes disponibles:"
 	@echo "  make quiz-iam          - IAM Fundamentals"
+	@echo "  make quiz-iam-interactive - IAM Fundamentals (Interactivo)"
 	@echo "  make quiz-vpc          - VPC y Networking"
+	@echo "  make quiz-vpc-interactive - VPC y Networking (Interactivo)"
 	@echo "  make quiz-monitoring   - Monitoring Basics"
 
 # Quiz de IAM Fundamentals
@@ -51,6 +53,18 @@ quiz-vpc:
 	@echo "📝 Quiz 02: VPC y Networking"
 	@echo "=================================="
 	@cat saa-c03/quizzes/quiz-02-vpc-and-networking.md
+
+# Quiz de IAM Fundamentals (Interactivo)
+quiz-iam-interactive:
+	@echo "📝 Quiz 01: IAM Fundamentals (Versión Interactiva)"
+	@echo "=================================================="
+	@cat saa-c03/quizzes/quiz-01-iam-fundamentals-interactive.md
+
+# Quiz de VPC y Networking (Interactivo)
+quiz-vpc-interactive:
+	@echo "📝 Quiz 02: VPC y Networking (Versión Interactiva)"
+	@echo "=================================================="
+	@cat saa-c03/quizzes/quiz-02-vpc-and-networking-interactive.md
 
 # Quiz de Monitoring Basics (SOA-C02)
 quiz-monitoring:

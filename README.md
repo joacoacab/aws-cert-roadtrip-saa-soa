@@ -3,21 +3,21 @@
 ## 📌 Índice Rápido
 
 ### 🗓 SAA-C03 - Solutions Architect Associate
-- [Semana 01: Fundamentos de AWS](#semana-01-fundamentos-de-aws)
-- [Semana 02: Computación en la Nube](#semana-02-computación-en-la-nube)
-- [Semana 03: Almacenamiento y Bases de Datos](#semana-03-almacenamiento-y-bases-de-datos)
-- [Semana 04: Redes y Seguridad](#semana-04-redes-y-seguridad)
-- [Semana 05: Bases de Datos Avanzadas](#semana-05-bases-de-datos-avanzadas)
-- [Semana 06: Alta Disponibilidad](#semana-06-alta-disponibilidad-y-tolerancia-a-fallos)
-- [Semana 07: Seguridad Avanzada](#semana-07-seguridad-avanzada)
-- [Semana 08: Arquitecturas Serverless](#semana-08-arquitecturas-serverless)
-- [Semana 09: Monitoreo](#semana-09-monitoreo-y-observabilidad)
-- [Semana 10: Optimización de Costos](#semana-10-optimización-de-costos)
-- [Semana 11: Simulacro de Examen](#semana-11-simulacro-de-examen)
-- [Semana 12: Revisión Final](#semana-12-revisión-final)
+- [Semana 01: Fundamentos de AWS](#semana-01-fundamentos-de-aws--iam-cuentas-regiones-y-zonas)
+- [Semana 02: Computación en la Nube](#semana-02-computación-en-la-nube--ec2-auto-scaling-load-balancers)
+- [Semana 03: Almacenamiento y Bases de Datos](#semana-03-almacenamiento-y-bases-de-datos--s3-ebs-rds-dynamodb)
+- [Semana 04: Redes y Seguridad](#semana-04-redes-y-seguridad--vpc-security-groups-nacls)
+- [Semana 05: Bases de Datos Avanzadas](#semana-05-bases-de-datos-avanzadas--aurora-rds-dynamodb-caching)
+- [Semana 06: Alta Disponibilidad](#semana-06-alta-disponibilidad-y-tolerancia-a-fallos--route-53-alb-auto-scaling-azs)
+- [Semana 07: Seguridad Avanzada](#semana-07-seguridad-avanzada--kms-secrets-manager-organizations-scps-mfa)
+- [Semana 08: Arquitecturas Serverless](#semana-08-arquitecturas-serverless--lambda-api-gateway-step-functions-sqs-sns)
+- [Semana 09: Monitoreo](#semana-09-monitoreo-y-observabilidad--cloudwatch-logs-cloudtrail-eventbridge)
+- [Semana 10: Optimización de Costos](#semana-10-optimización-de-costos--cost-explorer-budgets-savings-plans)
+- [Semana 11: Simulacro de Examen](#semana-11-simulacro-de-examen--práctica-completa)
+- [Semana 12: Revisión Final](#semana-12-revisión-final--checklist--tips-para-rendir)
 
 ### 🗓 SOA-C02 - SysOps Administrator Associate
-- [Semana 01: Monitoreo y Logs](#semana-01-introducción-a-monitoreo-y-logs)
+- [Semana 01: Monitoreo y Logs](#semana-01-introducción-a-monitoreo-y-logs--cloudwatch-métricas-alarmas-filtros)
 
 ---
 
@@ -127,7 +127,9 @@ Después de completar SAA-C03, el plan continúa con la preparación para SOA-C0
 ### 📝 Ver Quizzes
 ```bash
 make quiz-iam          # Quiz de IAM Fundamentals
+make quiz-iam-interactive  # Quiz de IAM (Interactivo - sin respuestas)
 make quiz-vpc          # Quiz de VPC y Networking
+make quiz-vpc-interactive  # Quiz de VPC (Interactivo - sin respuestas)
 make quiz-monitoring   # Quiz de Monitoring Basics
 ```
 
